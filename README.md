@@ -1,15 +1,18 @@
-# DSA-Journal-in-CPP
+# 🚀 DSA Journal in C++
 
-Welcome to my personal Data Structures and Algorithms journal. This repository tracks my daily problem-solving journey, optimizations, and algorithmic growth primarily using C++.
+[![Language: C++20](https://img.shields.io/badge/Language-C%2B%2B17%20%2F%20C%2B%2B20-00599C?style=flat-square&logo=cplusplus)](https://en.cppreference.com/)
+[![Focus: Problem Solving](https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-orange?style=flat-square)](#)
+[![Status: Active](https://img.shields.io/badge/Status-Active%20Development-brightgreen?style=flat-square)](#)
 
-## 📊 Streak & Progress
-* **Primary Language:** C++17 / C++20
-* **Goal:** Consistent daily problem-solving, focusing on optimal time & space complexities.
-
-## 🛠️ Repository Structure
-* `[Problem-Number]-[Problem-Name]/`
-  * `Solution.cpp` -> Clean, optimized C++ source code.
-  * `README.md` -> LeetCode problem description, constraints, and notes.
+A dedicated log tracking daily problem-solving, algorithmic optimizations, and time/space efficiency trade-offs using modern **C++**.
 
 ---
-*"Consistency beats intensity."*
+
+## 📌 Overview
+
+This repository serves as a personal knowledge base and performance log for competitive programming and technical interview prep. Every solution focuses on:
+* **Optimal Time & Space Complexity:** Pushing past brute-force approaches toward optimal $O(N)$, $O(\log N)$, or $O(1)$ solutions.
+* **Modern C++ Standards:** Utilizing STL containers, iterators, smart idioms, and standard algorithms (`std::sort`, `std::unordered_map`, two-pointers, slide-window techniques).
+* **Clean & Idiomatic Code:** Prioritizing readability, expressive naming, and self-documenting logic.
+
+---
