@@ -16,3 +16,7 @@ This repository serves as a personal knowledge base and performance log for comp
 * **Clean & Idiomatic Code:** Prioritizing readability, expressive naming, and self-documenting logic.
 
 ---
+
+"Consistency is not about perfection. It’s about simply showing up and putting in the work, even when you don't feel like it."
+
+---
